@@ -1,0 +1,8 @@
+/home/owner/RiderProjects/Practice/ConsoleIO/bin/Debug/netcoreapp2.0/ConsoleIO.deps.json
+/home/owner/RiderProjects/Practice/ConsoleIO/bin/Debug/netcoreapp2.0/ConsoleIO.dll
+/home/owner/RiderProjects/Practice/ConsoleIO/bin/Debug/netcoreapp2.0/ConsoleIO.pdb
+/home/owner/RiderProjects/Practice/ConsoleIO/obj/Debug/netcoreapp2.0/ConsoleIO.csproj.CoreCompileInputs.cache
+/home/owner/RiderProjects/Practice/ConsoleIO/obj/Debug/netcoreapp2.0/ConsoleIO.AssemblyInfoInputs.cache
+/home/owner/RiderProjects/Practice/ConsoleIO/obj/Debug/netcoreapp2.0/ConsoleIO.AssemblyInfo.cs
+/home/owner/RiderProjects/Practice/ConsoleIO/obj/Debug/netcoreapp2.0/ConsoleIO.dll
+/home/owner/RiderProjects/Practice/ConsoleIO/obj/Debug/netcoreapp2.0/ConsoleIO.pdb
